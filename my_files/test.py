@@ -19,7 +19,7 @@ def f1():
 
 def f2():
     # Read the data from the text file
-    with open(r'D:\Finalyearproject\yolov5-20230513T175146Z-001\yolov5\results.txt', 'r') as file:
+    with open(r'results.txt', 'r') as file:
         data = file.read().split('\n')[1:]  # Exclude the header
 
     # Split each row and create a list of lists
