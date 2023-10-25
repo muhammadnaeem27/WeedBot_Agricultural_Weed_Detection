@@ -4,12 +4,12 @@ import subprocess
 
 def run_test_program():
     #test.py program
-    subprocess.call(["python", r"D:\Finalyearproject\yolov5-20230513T175146Z-001\yolov5\testt.py"])
+    subprocess.call(["python", r"testt.py"])
     print("Test program completed.")
 
 def run_roboflow_program():
     #roboflow_api.py program
-    subprocess.call(["python", r"D:\Finalyearproject\yolov5-20230513T175146Z-001\yolov5\roboflow_api.py"])
+    subprocess.call(["python", r"roboflow_api.py"])
     print("Roboflow program completed.")
 
 def quit_program():
@@ -32,7 +32,7 @@ y = int((screen_height / 2) - (window_height / 2))
 root.geometry(f"{window_width}x{window_height}+{x}+{y}")
 
 # Load the image
-image_path = r"D:\FYP documnets\yolov5-flask updated\yolov5-flaskl\templates\web\images\agro_small_logo.png"
+image_path = r"agro_small_logo.png"
 image = Image.open(image_path)
 image = image.resize((window_width // 2, window_height))
 image_tk = ImageTk.PhotoImage(image)
