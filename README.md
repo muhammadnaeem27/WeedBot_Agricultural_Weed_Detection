@@ -30,31 +30,20 @@ This project aims to detect and manage four common weed types in agriculture - L
 Farmers face numerous challenges due to the proliferation of harmful weeds. This project aims to provide an effective solution for weed detection and management. By automating the detection process, we help farmers identify and control weed growth, ultimately increasing crop yield and reducing the need for manual labor.
 
 ## How to Run the Code
-1. Clone repo and install [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) in a [**Python>=3.8.0**](https://www.python.org/) environment, including
-[**PyTorch>=1.8**](https://pytorch.org/get-started/locally/).
-   ```bash
-   pip install ultralytics
-   git clone https://github.com/ultralytics/yolov5  # clone
-   cd yolov5
-   pip install -r requirements.txt  # install
-   
-   ```
-2. Now Clone this repo
-   ```bash
-   git clone https://github.com/muhammadnaeem27/WeedBot_Agricultural_Weed_Detection.git  # clone
-   cd WeedBot_Agricultural_Weed_Detection/my_files
-   ```
-3. Copy all the files from (my_files) and paste them in yolov5 directory.
-  
-4. Create and activate a virtual environment in Windows using the following commands:
+1. Create and activate a virtual environment in Windows using the following commands:
     ```
     python -m venv env  # Virtual environment creation
     .\env\Scripts\activate  # Activation of the virtual environment
     ```
-5. After activating the environment, install the required packages from "requirements.txt" using the following command:
-    ```
-    pip install -r requirements.txt
-    ```
+2. Clone repo and install [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) in a [**Python>=3.8.0**](https://www.python.org/) environment, including
+[**PyTorch>=1.8**](https://pytorch.org/get-started/locally/).
+   ```bash
+   pip install ultralytics
+   git clone https://github.com/muhammadnaeem27/WeedBot_Agricultural_Weed_Detection.git  # clone
+   cd WeedBot_Agricultural_Weed_Detection/my_files
+   pip install -r requirements.txt  # install
+   pip install -r requirements1.txt  # install
+   ```  
 6. Pre-Trained model file "best.pt" is already exist in the "my_files" directory.
 
 7. To use the project, run the file "run_detect.py" with the following command:
