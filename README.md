@@ -3,12 +3,12 @@
 This project aims to detect and manage four common weed types in agriculture - Lamb's Quarter, Nut Grass, Parthenium hysterophorus, and Borh. We gathered a custom dataset based on farmer interviews to identify these harmful and prevalent weeds. Our approach involves dataset preprocessing, YOLOv5 model training, testing, and the development of a user-friendly GUI for weed detection. We also deployed this system on a robotic car for real-world field testing.
 
 ## Table of Contents
-1. [Major Steps](#major-steps)
+1. [Project Overview](#major-steps)
 2. [Problem Statement](#problem-statement)
 3. [How to Run the Code](#how-to-run-the-code)
 4. [Links and Resources](#links-and-resources)
 
-## Major Steps
+## Project Overview
 1. **Data Set Gathering**: We collected data from interviews with farmers to identify the most common and harmful weeds.
 2. **Dataset Preprocessing**: Our initial dataset of 600 images was augmented to 1400 images for model training, with annotations.
 3. **YOLOv5 Model Training**: We used YOLOv5 for object detection and trained the model on Google Colab.
