@@ -55,7 +55,7 @@ Farmers face numerous challenges due to the proliferation of harmful weeds. This
 
 <div style="display: flex; justify-content: center; align-items: center; height: 300px;">
   <div style="border-radius: 20px; overflow: hidden;">
-    <img src="GUI_interface.gif" alt="GUI interface GIF" style="max-width: 600px; height: 250px;" />
+    <img src="GUI_interface.gif" alt="GUI interface GIF" style="max-width: 80%; height: 50%;" />
   </div>
 </div>
 
