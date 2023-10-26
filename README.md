@@ -53,7 +53,12 @@ Farmers face numerous challenges due to the proliferation of harmful weeds. This
 
    This will open a user-friendly GUI interface for detecting and managing weeds.
 
-![GUI Interface](#gui-interface-image)
+<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
+  <div style="border-radius: 20px; overflow: hidden;">
+    <img src="GUI_interface.gif" alt="GUI interface GIF" style="max-width: 100%; height: auto;" />
+  </div>
+</div>
+
 
 
 ## Links and Resources
