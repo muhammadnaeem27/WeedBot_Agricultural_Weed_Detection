@@ -42,7 +42,6 @@ Farmers face numerous challenges due to the proliferation of harmful weeds. This
    git clone https://github.com/muhammadnaeem27/WeedBot_Agricultural_Weed_Detection.git  # clone
    cd WeedBot_Agricultural_Weed_Detection/my_files
    pip install -r requirements.txt  # install
-   pip install -r requirements1.txt  # install
    ```  
 6. Pre-Trained model file "best.pt" is already exist in the "my_files" directory.
 
@@ -55,7 +54,7 @@ Farmers face numerous challenges due to the proliferation of harmful weeds. This
    This will open a user-friendly GUI interface for detecting and managing weeds.
 
 ![GUI Interface](#gui-interface-image)
-* Describe how to use the GUI interface.
+
 
 ## Links and Resources
 
