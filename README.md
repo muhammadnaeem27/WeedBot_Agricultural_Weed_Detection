@@ -67,4 +67,5 @@ Farmers face numerous challenges due to the proliferation of harmful weeds. This
 - <a href="https://www.youtube.com/watch?v=0Td1oyGz89U" target="_blank">Project Video</a>
 - <a href="https://drive.google.com/file/d/1Z5ZObSlPNUdkdIquQbBMoKtcok56EkIP/view?usp=drive_link" target="_blank">Project Report</a>
 
-
+## Reference 
+This project utilizes [YOLOv5](https://github.com/ultralytics/yolov5) for object detection.
