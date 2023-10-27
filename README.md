@@ -47,7 +47,6 @@ Farmers face numerous challenges due to the proliferation of harmful weeds. This
 
 7. To use the project, run the file "run_detect.py" with the following command:
     ```
-    cd yolov5
     python run_detect.py
     ```
 
