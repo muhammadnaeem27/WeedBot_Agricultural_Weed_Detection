@@ -45,7 +45,9 @@ Farmers face numerous challenges due to the proliferation of harmful weeds. This
    ```  
 6. Pre-Trained model file "best.pt" is already exist in the "my_files" directory.
 
-7. To use the project, run the file "run_detect.py" with the following command:
+7. Download sample images from the dataset for testing by following this link: [Samples for Testing](https://drive.google.com/drive/folders/1Fgumyttzsic5-APyM6pmrdW8y0pgoHLV?usp=drive_link) 
+
+8. To use the project, run the file "run_detect.py" with the following command:
     ```
     python run_detect.py
     ```
